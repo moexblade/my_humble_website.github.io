@@ -1,0 +1,56 @@
+name: my_website
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  pretty_animated_buttons: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/holy_gif.gif
+    - assets/images/background.gif
+    - assets/images/angels.gif
+    - assets/images/angels2.gif
+    - assets/images/pfp.png
+    - assets/images/frame.png
+    - assets/images/frame.gif
+    - assets/images/paper.jpg
+    - assets/images/frame2.png
+    - assets/images/music.gif
+    - assets/images/books.gif
+    - assets/images/contact.png
+    - assets/images/background_books2.jpg
+    - assets/images/books/metasploit.jpg
+    - assets/images/books/vicious.jpg
+    - assets/images/books/linux.jpg
+    - assets/images/books/python_hack.jpg
+    - assets/images/books/icon.gif
+    - assets/images/library.jpg
+
+
+  fonts:
+    - family: Fancy
+      fonts:
+      - asset: assets/fonts/Ballet-Regular-VariableFont_opsz.ttf
+
+    - family: Playfair
+      fonts:
+      - asset: assets/fonts/PlayfairDisplay-VariableFont_wght.ttf
+
+    - family: Fancy2
+      fonts:
+      - asset: assets/fonts/MonsieurLaDoulaise-Regular.ttf
