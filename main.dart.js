@@ -67017,7 +67017,7 @@ A.Rd.prototype={
 $0(){return A.r8("https://x.com/itzyaboysam001")},
 $S:0}
 A.Re.prototype={
-$0(){return A.r8("https://discord.com/invite/exYEn2Z5")},
+$0(){return A.r8("https://discord.gg/aHd99dYZ")},
 $S:0}
 A.Rf.prototype={
 $0(){return A.r8("mailto:itzmoex@proton.me")},
